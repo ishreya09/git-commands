@@ -74,4 +74,8 @@ git remote -v
 origin  git@github.com:ishreya09/git-commands.git (fetch)
 origin  git@github.com:ishreya09/git-commands.git (push)
 
+git branch - prints the branch name
+git branch "branch name"
+git checkout main
+Switched to branch 'main'
 
