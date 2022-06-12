@@ -62,3 +62,10 @@ stash stores the changes before commiting
 .md - markdown file
 
 git remote set-url origin git@github.com:ppreyer/first_app.git
+- do this to update the repository
+
+git remote add origin2 <ssh / https link>
+- to add a repo to a remote repo
+
+git push origin master
+
