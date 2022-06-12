@@ -92,3 +92,9 @@ git merge main
 ## 
 forking and cloning
 
+git clone git@github.com:wingtk/gvsbuild.git
+- to clone the repo
+
+for creating pull request
+- refer the slides
+
