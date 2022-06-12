@@ -85,3 +85,10 @@ git push origin main
 branch copies the previous the  branch
 
 f.txt is present in main but not in master branch
+
+git merge main 
+- merges the changes made in main to master branch
+
+## 
+forking and cloning
+
