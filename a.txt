@@ -53,3 +53,8 @@ after adding a file -
 
 git restore --staged d.txt
 
+git reset <commit code>
+
+git stash clear
+
+stash stores the changes before commiting
