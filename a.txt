@@ -42,3 +42,11 @@ repeat the commands to save the changes
 git restore b.txt - 
 to remove the changes that were made in the file
 
+git log - 
+to see all the commits made in the projects
+
+for each commit - there is a unique code 
+
+after adding a file -
+(use "git restore --staged <file>..." to unstage)
+- removes from the git 
