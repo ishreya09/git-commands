@@ -30,3 +30,7 @@ untracked files - files which aren't added to git
 
 git add . - to add all files
 
+git commit -m "first commit"
+- commit stores it in the project history
+
+
