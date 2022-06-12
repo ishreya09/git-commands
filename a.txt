@@ -58,3 +58,7 @@ git reset <commit code>
 git stash clear
 
 stash stores the changes before commiting
+
+.md - markdown file
+
+git remote set-url origin git@github.com:ppreyer/first_app.git
