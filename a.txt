@@ -50,3 +50,6 @@ for each commit - there is a unique code
 after adding a file -
 (use "git restore --staged <file>..." to unstage)
 - removes from the git 
+
+git restore --staged d.txt
+
