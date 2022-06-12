@@ -79,3 +79,5 @@ git branch "branch name"
 git checkout main
 Switched to branch 'main'
 
+git push origin main
+- to push the main branch
