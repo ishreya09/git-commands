@@ -29,8 +29,16 @@ git status -
 untracked files - files which aren't added to git
 
 git add . - to add all files
+git add <filename>... - to add aparticular file
+
 
 git commit -m "first commit"
 - commit stores it in the project history
 
+// these are the untracked changes in the file 
+
+repeat the commands to save the changes
+
+git restore b.txt - 
+to remove the changes that were made in the file
 
