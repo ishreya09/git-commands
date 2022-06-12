@@ -69,3 +69,9 @@ git remote add origin2 <ssh / https link>
 
 git push origin master
 
+
+git remote -v
+origin  git@github.com:ishreya09/git-commands.git (fetch)
+origin  git@github.com:ishreya09/git-commands.git (push)
+
+
